@@ -1,6 +1,57 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T14:15:45.579Z",
+  "updatedAt": "2026-09-28T20:13:35.836Z",
+  "phases": [
+    {
+      "id": "PHASE_ONE",
+      "label": {
+        "es": "Fase 1: Saga del Infinito",
+        "en": "Phase 1: Infinity Saga"
+      }
+    },
+    {
+      "id": "PHASE_TWO",
+      "label": {
+        "es": "Fase 2: Saga del Infinito",
+        "en": "Phase 2: Infinity Saga"
+      }
+    },
+    {
+      "id": "PHASE_THREE",
+      "label": {
+        "es": "Fase 3: Saga del Infinito",
+        "en": "Phase 3: Infinity Saga"
+      }
+    },
+    {
+      "id": "PHASE_FOUR",
+      "label": {
+        "es": "Fase 4: Saga del Multiverso",
+        "en": "Phase 4: Multiverse Saga"
+      }
+    },
+    {
+      "id": "PHASE_FIVE",
+      "label": {
+        "es": "Fase 5: Saga del Multiverso",
+        "en": "Phase 5: Multiverse Saga"
+      }
+    },
+    {
+      "id": "PHASE_SIX",
+      "label": {
+        "es": "Fase 6: Saga del Multiverso",
+        "en": "Phase 6: Multiverse Saga"
+      }
+    },
+    {
+      "id": "PHASE_SEVEN",
+      "label": {
+        "es": "Fase 7: Saga de los Mutantes",
+        "en": "Phase 7: Mutant Saga"
+      }
+    }
+  ],
   "timeline": [
     {
       "simklId": "2321935",
