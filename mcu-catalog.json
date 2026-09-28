@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T01:18:40.267Z",
+  "updatedAt": "2026-09-28T14:15:45.579Z",
   "timeline": [
     {
       "simklId": "2321935",
@@ -1341,6 +1341,50 @@
       "type": "MOVIE",
       "year": 2026,
       "poster": "19/19202717887ea1f3a9",
+      "inPhaseRegistry": true,
+      "earthId": "EARTH-616"
+    },
+    {
+      "simklId": "1959680",
+      "title": "Avengers: Secret Wars",
+      "phase": "PHASE_SIX",
+      "chronologicalOrder": 9,
+      "type": "MOVIE",
+      "year": 2027,
+      "poster": "16/162279014d0ca53373",
+      "inPhaseRegistry": true,
+      "earthId": "EARTH-616"
+    },
+    {
+      "simklId": "2471869",
+      "title": "Untitled X-Men Film",
+      "phase": "PHASE_SEVEN",
+      "chronologicalOrder": 1,
+      "type": "MOVIE",
+      "year": 2028,
+      "poster": "20/205063056fbf2f4ea1",
+      "inPhaseRegistry": true,
+      "earthId": "EARTH-616"
+    },
+    {
+      "simklId": "3196712",
+      "title": "Ghost Rider",
+      "phase": "PHASE_SEVEN",
+      "chronologicalOrder": 2,
+      "type": "MOVIE",
+      "year": 2028,
+      "poster": "20/20391440fdda671872",
+      "inPhaseRegistry": true,
+      "earthId": "EARTH-616"
+    },
+    {
+      "simklId": "2634693",
+      "title": "Black Panther 3",
+      "phase": "PHASE_SEVEN",
+      "chronologicalOrder": 3,
+      "type": "MOVIE",
+      "year": 2028,
+      "poster": "20/2039267588d21c25d8",
       "inPhaseRegistry": true,
       "earthId": "EARTH-616"
     }
