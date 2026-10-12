@@ -6,6 +6,8 @@ Curated catalog data for the **Cronopic** app — a Simkl client for movies, TV 
 
 - `mcu-catalog.json` — the Marvel Cinematic Universe catalog: **122 timeline rows** (phases, chronological order, Earth IDs) and **47 multiverse rows** (20 universes). Every row carries its real Simkl ID, poster path and release year.
 
+- `dcu-catalog.json` — the DCU ("El Orden de DC") catalog: **7 chapter/timeline rows** (Chapter 1: Gods and Monsters, in chronological order) and **58 multiverse rows** (8 Elseworlds universes: DCEU/Snyderverse, The Batman, Joker, Arrowverse, DCAU, DCAMU, Max originals, contemporary animation). Every row carries its real Simkl ID, poster path and release year.
+
 ## Schema (v1)
 
 ```json
@@ -47,7 +49,7 @@ Curated catalog data for the **Cronopic** app — a Simkl client for movies, TV 
 
 ## How it is generated
 
-Produced by the capture tooling in the Cronopic app repository (`tools/mcu-catalog/`): the curated structure (phases, order, universes) is authored there, and every Simkl ID + poster is resolved once against the Simkl API and verified by title + year.
+Produced by the capture tooling in the Cronopic app repository (`tools/mcu-catalog/` for MCU and `tools/dcu-catalog/` for DCU): the curated structure (phases/blocks, order, universes) is authored there, and every Simkl ID + poster is resolved once against the Simkl API and verified by title + year.
 
 This repository exists so the app can fetch the whole catalog with a **single request** instead of resolving hundreds of IDs at runtime.
 
