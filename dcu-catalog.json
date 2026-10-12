@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T01:44:35.588Z",
+  "updatedAt": "2026-10-12T23:53:55.846Z",
   "phases": [
     {
       "id": "DCU_CHAPTER_ONE",
@@ -209,16 +209,6 @@
       "type": "MOVIE",
       "year": 2023,
       "poster": "13/136935317409f96f32"
-    },
-    {
-      "simklId": "666540",
-      "title": "The Flash",
-      "universeName": "DCEU / Snyderverse",
-      "earthId": "DCEU",
-      "releaseOrder": 13,
-      "type": "MOVIE",
-      "year": 2023,
-      "poster": "13/1376684781c9e19586"
     },
     {
       "simklId": "979294",
@@ -699,6 +689,176 @@
       "type": "MOVIE",
       "year": 2027,
       "poster": "18/187993674bf55afe4d"
+    },
+    {
+      "simklId": "53486",
+      "title": "Batman",
+      "universeName": "DC Universe of Yesteryear",
+      "earthId": "EARTH-89",
+      "releaseOrder": 63,
+      "type": "MOVIE",
+      "year": 1989,
+      "poster": "10/102784308f7643770b"
+    },
+    {
+      "simklId": "53634",
+      "title": "Batman Returns",
+      "universeName": "DC Universe of Yesteryear",
+      "earthId": "EARTH-89",
+      "releaseOrder": 64,
+      "type": "MOVIE",
+      "year": 1992,
+      "poster": "69/6992314fedf9502d0"
+    },
+    {
+      "simklId": "53694",
+      "title": "Batman Forever",
+      "universeName": "DC Universe of Yesteryear",
+      "earthId": "EARTH-89",
+      "releaseOrder": 65,
+      "type": "MOVIE",
+      "year": 1995,
+      "poster": "11/1172955040a87a1933"
+    },
+    {
+      "simklId": "53696",
+      "title": "Batman & Robin",
+      "universeName": "DC Universe of Yesteryear",
+      "earthId": "EARTH-89",
+      "releaseOrder": 66,
+      "type": "MOVIE",
+      "year": 1997,
+      "poster": "14/1489963141e6c0b7e9"
+    },
+    {
+      "simklId": "666540",
+      "title": "The Flash",
+      "universeName": "DC Universe of Yesteryear",
+      "earthId": "EARTH-89",
+      "releaseOrder": 67,
+      "type": "MOVIE",
+      "year": 2023,
+      "poster": "13/1376684781c9e19586"
+    },
+    {
+      "simklId": "217514",
+      "title": "Batman: The Dark Knight Returns - Part 1",
+      "universeName": "The Dark Knight Returns",
+      "earthId": "EARTH-MILLER",
+      "releaseOrder": 68,
+      "type": "MOVIE",
+      "year": 2012,
+      "poster": "19/19988005302172135b"
+    },
+    {
+      "simklId": "236312",
+      "title": "Batman: The Dark Knight Returns - Part 2",
+      "universeName": "The Dark Knight Returns",
+      "earthId": "EARTH-MILLER",
+      "releaseOrder": 69,
+      "type": "MOVIE",
+      "year": 2013,
+      "poster": "19/1998800768623eede5"
+    },
+    {
+      "simklId": "1138204",
+      "title": "Superman: Man of Tomorrow",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 70,
+      "type": "MOVIE",
+      "year": 2020,
+      "poster": "12/125623930c14724131"
+    },
+    {
+      "simklId": "1417016",
+      "title": "Justice Society: World War II",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 71,
+      "type": "MOVIE",
+      "year": 2021,
+      "poster": "11/1130557801dc2bd815"
+    },
+    {
+      "simklId": "1417010",
+      "title": "Batman: The Long Halloween - Part 1",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 72,
+      "type": "MOVIE",
+      "year": 2021,
+      "poster": "11/115150408137edccdc"
+    },
+    {
+      "simklId": "1417008",
+      "title": "Batman: The Long Halloween - Part 2",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 73,
+      "type": "MOVIE",
+      "year": 2021,
+      "poster": "11/11514918af6ca7b62d"
+    },
+    {
+      "simklId": "1757710",
+      "title": "Green Lantern: Beware My Power",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 74,
+      "type": "MOVIE",
+      "year": 2022,
+      "poster": "12/127804418677fcd208"
+    },
+    {
+      "simklId": "1959295",
+      "title": "Legion of Super-Heroes",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 75,
+      "type": "MOVIE",
+      "year": 2023,
+      "poster": "13/13231207c2246935dc"
+    },
+    {
+      "simklId": "1959177",
+      "title": "Justice League: Warworld",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 76,
+      "type": "MOVIE",
+      "year": 2023,
+      "poster": "14/14209105f44ce7c618"
+    },
+    {
+      "simklId": "2215483",
+      "title": "Justice League: Crisis on Infinite Earths - Part One",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 77,
+      "type": "MOVIE",
+      "year": 2024,
+      "poster": "14/149071735186e2dcba"
+    },
+    {
+      "simklId": "2306637",
+      "title": "Justice League: Crisis on Infinite Earths - Part Two",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 78,
+      "type": "MOVIE",
+      "year": 2024,
+      "poster": "15/15353689ba380ae0d5"
+    },
+    {
+      "simklId": "2306641",
+      "title": "Justice League: Crisis on Infinite Earths - Part Three",
+      "universeName": "Tomorrowverse",
+      "earthId": "EARTH-TOMORROW",
+      "releaseOrder": 79,
+      "type": "MOVIE",
+      "year": 2024,
+      "poster": "15/15746181565415e88b"
     }
   ]
 }
