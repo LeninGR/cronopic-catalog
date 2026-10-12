@@ -315,7 +315,7 @@
     {
       "simklId": "2726684",
       "title": "Star Wars: Visions",
-      "universeName": "Visiones Alternativas",
+      "universeName": "Visions",
       "earthId": "VISIONS",
       "releaseOrder": 1,
       "type": "SHOW",
@@ -325,7 +325,7 @@
     {
       "simklId": "1753",
       "title": "Star Wars: Clone Wars",
-      "universeName": "Legends (No Canónico)",
+      "universeName": "Legends",
       "earthId": "LEGENDS",
       "releaseOrder": 2,
       "type": "SHOW",
@@ -335,7 +335,7 @@
     {
       "simklId": "70",
       "title": "Star Wars: Droids",
-      "universeName": "Legends (No Canónico)",
+      "universeName": "Legends",
       "earthId": "LEGENDS",
       "releaseOrder": 3,
       "type": "SHOW",
@@ -345,7 +345,7 @@
     {
       "simklId": "3219",
       "title": "Star Wars: Ewoks",
-      "universeName": "Legends (No Canónico)",
+      "universeName": "Legends",
       "earthId": "LEGENDS",
       "releaseOrder": 4,
       "type": "SHOW",
