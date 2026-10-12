@@ -669,6 +669,36 @@
       "type": "SHOW",
       "year": 2023,
       "poster": "14/14150607163a9740f2"
+    },
+    {
+      "simklId": "2899427",
+      "title": "Batman: Knightfall - Part 1: Knightfall",
+      "universeName": "Knightfall",
+      "earthId": "KNIGHTFALL",
+      "releaseOrder": 60,
+      "type": "MOVIE",
+      "year": 2026,
+      "poster": "20/20370135b23b8ca567"
+    },
+    {
+      "simklId": "2640073",
+      "title": "Batman: Knightfall - Part 2: Knightquest",
+      "universeName": "Knightfall",
+      "earthId": "KNIGHTFALL",
+      "releaseOrder": 61,
+      "type": "MOVIE",
+      "year": 2026,
+      "poster": "20/20728227ee4177c6b3"
+    },
+    {
+      "simklId": "2640071",
+      "title": "Batman: Knightfall - Part 3: KnightsEnd",
+      "universeName": "Knightfall",
+      "earthId": "KNIGHTFALL",
+      "releaseOrder": 62,
+      "type": "MOVIE",
+      "year": 2027,
+      "poster": "18/187993674bf55afe4d"
     }
   ]
 }
