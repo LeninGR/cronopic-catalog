@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-12T03:57:14.421Z",
+  "phases": [
+    {
+      "id": "HIGH_REPUBLIC",
+      "label": {
+        "es": "La Alta República",
+        "en": "The High Republic"
+      }
+    },
+    {
+      "id": "FALL_OF_THE_JEDI",
+      "label": {
+        "es": "La Caída de los Jedi",
+        "en": "Fall of the Jedi"
+      }
+    },
+    {
+      "id": "REIGN_OF_THE_EMPIRE",
+      "label": {
+        "es": "La Era del Imperio",
+        "en": "Reign of the Empire"
+      }
+    },
+    {
+      "id": "AGE_OF_REBELLION",
+      "label": {
+        "es": "La Era de la Rebelión",
+        "en": "Age of Rebellion"
+      }
+    },
+    {
+      "id": "NEW_REPUBLIC",
+      "label": {
+        "es": "La Nueva República",
+        "en": "The New Republic"
+      }
+    },
+    {
+      "id": "RISE_OF_THE_FIRST_ORDER",
+      "label": {
+        "es": "El Ascenso de la Primera Orden",
+        "en": "Rise of the First Order"
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "simklId": "1499040",
+      "title": "Star Wars: The Acolyte",
+      "phase": "HIGH_REPUBLIC",
+      "chronologicalOrder": 1,
+      "type": "SHOW",
+      "year": 2024,
+      "poster": "15/15734953f6ad033db9",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "55520",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "phase": "FALL_OF_THE_JEDI",
+      "chronologicalOrder": 1,
+      "type": "MOVIE",
+      "year": 1999,
+      "poster": "65/65404660fd57a9f94",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "55522",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "phase": "FALL_OF_THE_JEDI",
+      "chronologicalOrder": 2,
+      "type": "MOVIE",
+      "year": 2002,
+      "poster": "66/664286473b8d7bdb2",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "66882",
+      "title": "Star Wars: The Clone Wars",
+      "phase": "FALL_OF_THE_JEDI",
+      "chronologicalOrder": 3,
+      "type": "MOVIE",
+      "year": 2008,
+      "poster": "10/10776778431dd24c14",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "13007",
+      "title": "Star Wars: The Clone Wars",
+      "phase": "FALL_OF_THE_JEDI",
+      "chronologicalOrder": 4,
+      "type": "SHOW",
+      "year": 2008,
+      "poster": "30/3005816a6d45783db",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "55524",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "phase": "FALL_OF_THE_JEDI",
+      "chronologicalOrder": 5,
+      "type": "MOVIE",
+      "year": 2005,
+      "poster": "96/9622786f3a8424c95",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "1389745",
+      "title": "Star Wars: The Bad Batch",
+      "phase": "FALL_OF_THE_JEDI",
+      "chronologicalOrder": 6,
+      "type": "SHOW",
+      "year": 2021,
+      "poster": "13/1330943966e429db37",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "1920035",
+      "title": "Star Wars: Tales of the Jedi",
+      "phase": "FALL_OF_THE_JEDI",
+      "chronologicalOrder": 7,
+      "type": "SHOW",
+      "year": 2022,
+      "poster": "13/130722190081013cc0",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "508902",
+      "title": "Solo: A Star Wars Story",
+      "phase": "REIGN_OF_THE_EMPIRE",
+      "chronologicalOrder": 1,
+      "type": "MOVIE",
+      "year": 2018,
+      "poster": "67/6721272394c9b74f4",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "1499070",
+      "title": "Obi-Wan Kenobi",
+      "phase": "REIGN_OF_THE_EMPIRE",
+      "chronologicalOrder": 2,
+      "type": "SHOW",
+      "year": 2022,
+      "poster": "12/12627495e464961325",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "1499062",
+      "title": "Andor",
+      "phase": "AGE_OF_REBELLION",
+      "chronologicalOrder": 1,
+      "type": "SHOW",
+      "year": 2022,
+      "poster": "12/12835083d71727cf88",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "52692",
+      "title": "Star Wars Rebels",
+      "phase": "AGE_OF_REBELLION",
+      "chronologicalOrder": 2,
+      "type": "SHOW",
+      "year": 2014,
+      "poster": "20/20065243fc17d3b77",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "480198",
+      "title": "Rogue One: A Star Wars Story",
+      "phase": "AGE_OF_REBELLION",
+      "chronologicalOrder": 3,
+      "type": "MOVIE",
+      "year": 2016,
+      "poster": "94/9412430cc18220c23",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "53078",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "phase": "AGE_OF_REBELLION",
+      "chronologicalOrder": 4,
+      "type": "MOVIE",
+      "year": 1977,
+      "poster": "12/12302091525acd198e",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "55516",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "phase": "AGE_OF_REBELLION",
+      "chronologicalOrder": 5,
+      "type": "MOVIE",
+      "year": 1980,
+      "poster": "13/13908887d89f819d2b",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "55518",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "phase": "AGE_OF_REBELLION",
+      "chronologicalOrder": 6,
+      "type": "MOVIE",
+      "year": 1983,
+      "poster": "13/13610567a348d32f96",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "1067626",
+      "title": "The Mandalorian",
+      "phase": "NEW_REPUBLIC",
+      "chronologicalOrder": 1,
+      "type": "SHOW",
+      "year": 2019,
+      "poster": "13/13672881628789d662",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "1505003",
+      "title": "The Book of Boba Fett",
+      "phase": "NEW_REPUBLIC",
+      "chronologicalOrder": 2,
+      "type": "SHOW",
+      "year": 2021,
+      "poster": "11/11927820446273cf2c",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "1499044",
+      "title": "Ahsoka",
+      "phase": "NEW_REPUBLIC",
+      "chronologicalOrder": 3,
+      "type": "SHOW",
+      "year": 2023,
+      "poster": "10/1098007019e8afe01b",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "1918595",
+      "title": "Star Wars: Skeleton Crew",
+      "phase": "NEW_REPUBLIC",
+      "chronologicalOrder": 4,
+      "type": "SHOW",
+      "year": 2024,
+      "poster": "16/16854811b93bebb377",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "884746",
+      "title": "Star Wars Resistance",
+      "phase": "RISE_OF_THE_FIRST_ORDER",
+      "chronologicalOrder": 1,
+      "type": "SHOW",
+      "year": 2018,
+      "poster": "11/113265563a13691a79",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "235018",
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "phase": "RISE_OF_THE_FIRST_ORDER",
+      "chronologicalOrder": 2,
+      "type": "MOVIE",
+      "year": 2015,
+      "poster": "96/9613908648522424e",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "274676",
+      "title": "Star Wars: Episode VIII - The Last Jedi",
+      "phase": "RISE_OF_THE_FIRST_ORDER",
+      "chronologicalOrder": 3,
+      "type": "MOVIE",
+      "year": 2017,
+      "poster": "63/6385606554cfb77d3",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    },
+    {
+      "simklId": "274680",
+      "title": "Star Wars: Episode IX - The Rise of Skywalker",
+      "phase": "RISE_OF_THE_FIRST_ORDER",
+      "chronologicalOrder": 4,
+      "type": "MOVIE",
+      "year": 2019,
+      "poster": "85/8591466d8d70d102f",
+      "inPhaseRegistry": true,
+      "earthId": "GALAXY"
+    }
+  ],
+  "multiverse": [
+    {
+      "simklId": "2726684",
+      "title": "Star Wars: Visions",
+      "universeName": "Visiones Alternativas",
+      "earthId": "VISIONS",
+      "releaseOrder": 1,
+      "type": "SHOW",
+      "year": 2021,
+      "poster": "17/17339328da80e5722d"
+    },
+    {
+      "simklId": "1753",
+      "title": "Star Wars: Clone Wars",
+      "universeName": "Legends (No Canónico)",
+      "earthId": "LEGENDS",
+      "releaseOrder": 2,
+      "type": "SHOW",
+      "year": 2003,
+      "poster": "27/27220bad8c10411"
+    },
+    {
+      "simklId": "70",
+      "title": "Star Wars: Droids",
+      "universeName": "Legends (No Canónico)",
+      "earthId": "LEGENDS",
+      "releaseOrder": 3,
+      "type": "SHOW",
+      "year": 1985,
+      "poster": "11/116052608fcca3ab47"
+    },
+    {
+      "simklId": "3219",
+      "title": "Star Wars: Ewoks",
+      "universeName": "Legends (No Canónico)",
+      "earthId": "LEGENDS",
+      "releaseOrder": 4,
+      "type": "SHOW",
+      "year": 1985,
+      "poster": "30/30194d4ee6da9a4"
+    }
+  ]
+}
