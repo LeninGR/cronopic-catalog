@@ -91,11 +91,81 @@
   ],
   "multiverse": [
     {
+      "simklId": "7590",
+      "title": "Batman",
+      "universeName": "Classic 60s Universe",
+      "earthId": "EARTH-66",
+      "releaseOrder": 1,
+      "type": "SHOW",
+      "year": 1966,
+      "poster": "78/781922682527cde8"
+    },
+    {
+      "simklId": "56546",
+      "title": "Batman: The Movie",
+      "universeName": "Classic 60s Universe",
+      "earthId": "EARTH-66",
+      "releaseOrder": 2,
+      "type": "MOVIE",
+      "year": 1966,
+      "poster": "85/85951064e472e12c9"
+    },
+    {
+      "simklId": "55578",
+      "title": "Superman: The Movie",
+      "universeName": "Classic Superman Universe",
+      "earthId": "EARTH-78",
+      "releaseOrder": 3,
+      "type": "MOVIE",
+      "year": 1978,
+      "poster": "54/54434140cc80c056a"
+    },
+    {
+      "simklId": "61320",
+      "title": "Superman II",
+      "universeName": "Classic Superman Universe",
+      "earthId": "EARTH-78",
+      "releaseOrder": 4,
+      "type": "MOVIE",
+      "year": 1980,
+      "poster": "13/13980429755e667a41"
+    },
+    {
+      "simklId": "62442",
+      "title": "Superman III",
+      "universeName": "Classic Superman Universe",
+      "earthId": "EARTH-78",
+      "releaseOrder": 5,
+      "type": "MOVIE",
+      "year": 1983,
+      "poster": "94/9401892648079ff99"
+    },
+    {
+      "simklId": "65746",
+      "title": "Superman IV: The Quest for Peace",
+      "universeName": "Classic Superman Universe",
+      "earthId": "EARTH-78",
+      "releaseOrder": 6,
+      "type": "MOVIE",
+      "year": 1987,
+      "poster": "97/9761528247b178cec"
+    },
+    {
+      "simklId": "54944",
+      "title": "Superman Returns",
+      "universeName": "Classic Superman Universe",
+      "earthId": "EARTH-78",
+      "releaseOrder": 7,
+      "type": "MOVIE",
+      "year": 2006,
+      "poster": "93/9388222df02474b56"
+    },
+    {
       "simklId": "53486",
       "title": "Batman",
-      "universeName": "DC Universe of Yesteryear",
+      "universeName": "Burton Universe",
       "earthId": "EARTH-89",
-      "releaseOrder": 1,
+      "releaseOrder": 8,
       "type": "MOVIE",
       "year": 1989,
       "poster": "10/102784308f7643770b"
@@ -103,39 +173,19 @@
     {
       "simklId": "53634",
       "title": "Batman Returns",
-      "universeName": "DC Universe of Yesteryear",
+      "universeName": "Burton Universe",
       "earthId": "EARTH-89",
-      "releaseOrder": 2,
+      "releaseOrder": 9,
       "type": "MOVIE",
       "year": 1992,
       "poster": "69/6992314fedf9502d0"
     },
     {
-      "simklId": "53694",
-      "title": "Batman Forever",
-      "universeName": "DC Universe of Yesteryear",
-      "earthId": "EARTH-89",
-      "releaseOrder": 3,
-      "type": "MOVIE",
-      "year": 1995,
-      "poster": "11/1172955040a87a1933"
-    },
-    {
-      "simklId": "53696",
-      "title": "Batman & Robin",
-      "universeName": "DC Universe of Yesteryear",
-      "earthId": "EARTH-89",
-      "releaseOrder": 4,
-      "type": "MOVIE",
-      "year": 1997,
-      "poster": "14/1489963141e6c0b7e9"
-    },
-    {
       "simklId": "666540",
       "title": "The Flash",
-      "universeName": "DC Universe of Yesteryear",
+      "universeName": "Burton Universe",
       "earthId": "EARTH-89",
-      "releaseOrder": 5,
+      "releaseOrder": 10,
       "type": "MOVIE",
       "year": 2023,
       "poster": "13/1376684781c9e19586"
@@ -145,7 +195,7 @@
       "title": "Batman: The Animated Series",
       "universeName": "DCAU (Timmverse)",
       "earthId": "DCAU",
-      "releaseOrder": 47,
+      "releaseOrder": 11,
       "type": "SHOW",
       "year": 1992,
       "poster": "18/187418d274b04c4"
@@ -155,7 +205,7 @@
       "title": "Superman: The Animated Series",
       "universeName": "DCAU (Timmverse)",
       "earthId": "DCAU",
-      "releaseOrder": 48,
+      "releaseOrder": 12,
       "type": "SHOW",
       "year": 1996,
       "poster": "26/26329dc1fa065a6"
@@ -165,7 +215,7 @@
       "title": "The New Batman Adventures",
       "universeName": "DCAU (Timmverse)",
       "earthId": "DCAU",
-      "releaseOrder": 49,
+      "releaseOrder": 13,
       "type": "SHOW",
       "year": 1997,
       "poster": "17/17213225584e5d7e1"
@@ -175,7 +225,7 @@
       "title": "Batman Beyond",
       "universeName": "DCAU (Timmverse)",
       "earthId": "DCAU",
-      "releaseOrder": 50,
+      "releaseOrder": 14,
       "type": "SHOW",
       "year": 1999,
       "poster": "33/33489b9b62fa2c2"
@@ -185,7 +235,7 @@
       "title": "Static Shock",
       "universeName": "DCAU (Timmverse)",
       "earthId": "DCAU",
-      "releaseOrder": 51,
+      "releaseOrder": 15,
       "type": "SHOW",
       "year": 2000,
       "poster": "41/41668164b9bde38"
@@ -195,17 +245,37 @@
       "title": "Justice League",
       "universeName": "DCAU (Timmverse)",
       "earthId": "DCAU",
-      "releaseOrder": 52,
+      "releaseOrder": 16,
       "type": "SHOW",
       "year": 2001,
       "poster": "35/356532c0ef846a8"
+    },
+    {
+      "simklId": "53694",
+      "title": "Batman Forever",
+      "universeName": "Schumacher Universe",
+      "earthId": "EARTH-97",
+      "releaseOrder": 17,
+      "type": "MOVIE",
+      "year": 1995,
+      "poster": "11/1172955040a87a1933"
+    },
+    {
+      "simklId": "53696",
+      "title": "Batman & Robin",
+      "universeName": "Schumacher Universe",
+      "earthId": "EARTH-97",
+      "releaseOrder": 18,
+      "type": "MOVIE",
+      "year": 1997,
+      "poster": "14/1489963141e6c0b7e9"
     },
     {
       "simklId": "21978",
       "title": "Young Justice",
       "universeName": "Contemporary Animation",
       "earthId": "DC-ANIMATED",
-      "releaseOrder": 74,
+      "releaseOrder": 19,
       "type": "SHOW",
       "year": 2010,
       "poster": "73/73559d0237ba9c7"
@@ -215,7 +285,7 @@
       "title": "Harley Quinn",
       "universeName": "Contemporary Animation",
       "earthId": "DC-ANIMATED",
-      "releaseOrder": 75,
+      "releaseOrder": 20,
       "type": "SHOW",
       "year": 2019,
       "poster": "11/116947586c319f17d9"
@@ -225,7 +295,7 @@
       "title": "Kite Man: Hell Yeah!",
       "universeName": "Contemporary Animation",
       "earthId": "DC-ANIMATED",
-      "releaseOrder": 76,
+      "releaseOrder": 21,
       "type": "SHOW",
       "year": 2024,
       "poster": "16/161079694c479ee17a"
@@ -235,7 +305,7 @@
       "title": "My Adventures with Superman",
       "universeName": "Contemporary Animation",
       "earthId": "DC-ANIMATED",
-      "releaseOrder": 77,
+      "releaseOrder": 22,
       "type": "SHOW",
       "year": 2023,
       "poster": "14/14150607163a9740f2"
@@ -245,7 +315,7 @@
       "title": "Batman: The Dark Knight Returns - Part 1",
       "universeName": "The Dark Knight Returns",
       "earthId": "DKR",
-      "releaseOrder": 6,
+      "releaseOrder": 23,
       "type": "MOVIE",
       "year": 2012,
       "poster": "19/19988005302172135b"
@@ -255,7 +325,7 @@
       "title": "Batman: The Dark Knight Returns - Part 2",
       "universeName": "The Dark Knight Returns",
       "earthId": "DKR",
-      "releaseOrder": 7,
+      "releaseOrder": 24,
       "type": "MOVIE",
       "year": 2013,
       "poster": "19/1998800768623eede5"
@@ -265,7 +335,7 @@
       "title": "Arrow",
       "universeName": "Arrowverse",
       "earthId": "EARTH-PRIME",
-      "releaseOrder": 40,
+      "releaseOrder": 25,
       "type": "SHOW",
       "year": 2012,
       "poster": "19/1996192141ae1aeef"
@@ -275,7 +345,7 @@
       "title": "The Flash",
       "universeName": "Arrowverse",
       "earthId": "EARTH-PRIME",
-      "releaseOrder": 41,
+      "releaseOrder": 26,
       "type": "SHOW",
       "year": 2014,
       "poster": "10/109758664203de913b"
@@ -285,7 +355,7 @@
       "title": "Supergirl",
       "universeName": "Arrowverse",
       "earthId": "EARTH-PRIME",
-      "releaseOrder": 42,
+      "releaseOrder": 27,
       "type": "SHOW",
       "year": 2015,
       "poster": "11/11100800f5872239ce"
@@ -295,7 +365,7 @@
       "title": "DC's Legends of Tomorrow",
       "universeName": "Arrowverse",
       "earthId": "EARTH-PRIME",
-      "releaseOrder": 43,
+      "releaseOrder": 28,
       "type": "SHOW",
       "year": 2016,
       "poster": "31/313805296ccfaf2bc"
@@ -305,7 +375,7 @@
       "title": "Black Lightning",
       "universeName": "Arrowverse",
       "earthId": "EARTH-PRIME",
-      "releaseOrder": 44,
+      "releaseOrder": 29,
       "type": "SHOW",
       "year": 2018,
       "poster": "64/6464689816da743b1"
@@ -315,7 +385,7 @@
       "title": "Batwoman",
       "universeName": "Arrowverse",
       "earthId": "EARTH-PRIME",
-      "releaseOrder": 45,
+      "releaseOrder": 30,
       "type": "SHOW",
       "year": 2019,
       "poster": "84/8429368ee5671894a"
@@ -325,7 +395,7 @@
       "title": "Superman & Lois",
       "universeName": "Arrowverse",
       "earthId": "EARTH-PRIME",
-      "releaseOrder": 46,
+      "releaseOrder": 31,
       "type": "SHOW",
       "year": 2021,
       "poster": "10/108831044427fe62d2"
@@ -335,7 +405,7 @@
       "title": "Man of Steel",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 18,
+      "releaseOrder": 32,
       "type": "MOVIE",
       "year": 2013,
       "poster": "97/97613369e5005bfe0"
@@ -345,7 +415,7 @@
       "title": "Batman v Superman: Dawn of Justice",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 19,
+      "releaseOrder": 33,
       "type": "MOVIE",
       "year": 2016,
       "poster": "94/9439310dae416ef9d"
@@ -355,7 +425,7 @@
       "title": "Suicide Squad",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 20,
+      "releaseOrder": 34,
       "type": "MOVIE",
       "year": 2016,
       "poster": "16/16420309d6115766bb"
@@ -365,7 +435,7 @@
       "title": "Wonder Woman",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 21,
+      "releaseOrder": 35,
       "type": "MOVIE",
       "year": 2017,
       "poster": "56/565773012f240cc0c"
@@ -375,7 +445,7 @@
       "title": "Justice League",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 22,
+      "releaseOrder": 36,
       "type": "MOVIE",
       "year": 2017,
       "poster": "64/6489050bf96371e2a"
@@ -385,7 +455,7 @@
       "title": "Aquaman",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 23,
+      "releaseOrder": 37,
       "type": "MOVIE",
       "year": 2018,
       "poster": "13/13425165b4085a55cb"
@@ -395,7 +465,7 @@
       "title": "Shazam!",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 24,
+      "releaseOrder": 38,
       "type": "MOVIE",
       "year": 2019,
       "poster": "77/77349906321b41452"
@@ -405,7 +475,7 @@
       "title": "Birds of Prey",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 25,
+      "releaseOrder": 39,
       "type": "MOVIE",
       "year": 2020,
       "poster": "84/8477242cca0150e11"
@@ -415,7 +485,7 @@
       "title": "Wonder Woman 1984",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 26,
+      "releaseOrder": 40,
       "type": "MOVIE",
       "year": 2020,
       "poster": "10/1067332014a4189144"
@@ -425,7 +495,7 @@
       "title": "The Suicide Squad",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 27,
+      "releaseOrder": 41,
       "type": "MOVIE",
       "year": 2021,
       "poster": "12/1218405903279c2d80"
@@ -435,7 +505,7 @@
       "title": "Black Adam",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 28,
+      "releaseOrder": 42,
       "type": "MOVIE",
       "year": 2022,
       "poster": "12/129598439a0d0df6bb"
@@ -445,7 +515,7 @@
       "title": "Shazam! Fury of the Gods",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 29,
+      "releaseOrder": 43,
       "type": "MOVIE",
       "year": 2023,
       "poster": "13/136935317409f96f32"
@@ -455,7 +525,7 @@
       "title": "Blue Beetle",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 30,
+      "releaseOrder": 44,
       "type": "MOVIE",
       "year": 2023,
       "poster": "14/14579073b7171ece19"
@@ -465,7 +535,7 @@
       "title": "Aquaman and the Lost Kingdom",
       "universeName": "DCEU / Snyderverse",
       "earthId": "DCEU",
-      "releaseOrder": 31,
+      "releaseOrder": 45,
       "type": "MOVIE",
       "year": 2023,
       "poster": "14/149888654db09bde45"
@@ -475,7 +545,7 @@
       "title": "Justice League: The Flashpoint Paradox",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 53,
+      "releaseOrder": 46,
       "type": "MOVIE",
       "year": 2013,
       "poster": "18/18452957223c11978a"
@@ -485,7 +555,7 @@
       "title": "Justice League: War",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 54,
+      "releaseOrder": 47,
       "type": "MOVIE",
       "year": 2014,
       "poster": "10/101215889f88e7a3ab"
@@ -495,7 +565,7 @@
       "title": "Son of Batman",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 55,
+      "releaseOrder": 48,
       "type": "MOVIE",
       "year": 2014,
       "poster": "10/10233686ec52ba5b4f"
@@ -505,7 +575,7 @@
       "title": "Justice League: Throne of Atlantis",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 56,
+      "releaseOrder": 49,
       "type": "MOVIE",
       "year": 2015,
       "poster": "10/10808048250f7f4032"
@@ -515,7 +585,7 @@
       "title": "Batman vs. Robin",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 57,
+      "releaseOrder": 50,
       "type": "MOVIE",
       "year": 2015,
       "poster": "10/101491908ad09a3b19"
@@ -525,7 +595,7 @@
       "title": "Batman: Bad Blood",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 58,
+      "releaseOrder": 51,
       "type": "MOVIE",
       "year": 2016,
       "poster": "18/183223894d2c415856"
@@ -535,7 +605,7 @@
       "title": "Justice League vs. Teen Titans",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 59,
+      "releaseOrder": 52,
       "type": "MOVIE",
       "year": 2016,
       "poster": "11/11926250e7cdb54de9"
@@ -545,7 +615,7 @@
       "title": "Justice League Dark",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 60,
+      "releaseOrder": 53,
       "type": "MOVIE",
       "year": 2017,
       "poster": "10/10158536286812aeb4"
@@ -555,7 +625,7 @@
       "title": "Teen Titans: The Judas Contract",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 61,
+      "releaseOrder": 54,
       "type": "MOVIE",
       "year": 2017,
       "poster": "13/13769019296f9a25b1"
@@ -565,7 +635,7 @@
       "title": "Suicide Squad: Hell to Pay",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 62,
+      "releaseOrder": 55,
       "type": "MOVIE",
       "year": 2018,
       "poster": "65/65994108a8200ac87"
@@ -575,7 +645,7 @@
       "title": "The Death of Superman",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 63,
+      "releaseOrder": 56,
       "type": "MOVIE",
       "year": 2018,
       "poster": "68/6891174792e0f3f05"
@@ -585,7 +655,7 @@
       "title": "Constantine: City of Demons - The Movie",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 64,
+      "releaseOrder": 57,
       "type": "MOVIE",
       "year": 2018,
       "poster": "73/73633149a45ea72bb"
@@ -595,7 +665,7 @@
       "title": "Reign of the Supermen",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 65,
+      "releaseOrder": 58,
       "type": "MOVIE",
       "year": 2019,
       "poster": "76/7673554eceadced1a"
@@ -605,7 +675,7 @@
       "title": "Batman: Hush",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 66,
+      "releaseOrder": 59,
       "type": "MOVIE",
       "year": 2019,
       "poster": "81/8112818ad692d9d88"
@@ -615,7 +685,7 @@
       "title": "Wonder Woman: Bloodlines",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 67,
+      "releaseOrder": 60,
       "type": "MOVIE",
       "year": 2019,
       "poster": "84/84067684b78ee7fd7"
@@ -625,7 +695,7 @@
       "title": "Justice League Dark: Apokolips War",
       "universeName": "DCAMU",
       "earthId": "DCAMU",
-      "releaseOrder": 68,
+      "releaseOrder": 61,
       "type": "MOVIE",
       "year": 2020,
       "poster": "96/9636462f75717f41e"
@@ -635,7 +705,7 @@
       "title": "Titans",
       "universeName": "Max / DC Universe Originals",
       "earthId": "DC-MAX",
-      "releaseOrder": 69,
+      "releaseOrder": 62,
       "type": "SHOW",
       "year": 2018,
       "poster": "84/84733886dfe38076f"
@@ -645,7 +715,7 @@
       "title": "Doom Patrol",
       "universeName": "Max / DC Universe Originals",
       "earthId": "DC-MAX",
-      "releaseOrder": 70,
+      "releaseOrder": 63,
       "type": "SHOW",
       "year": 2019,
       "poster": "79/79237061664749f59"
@@ -655,7 +725,7 @@
       "title": "Swamp Thing",
       "universeName": "Max / DC Universe Originals",
       "earthId": "DC-MAX",
-      "releaseOrder": 71,
+      "releaseOrder": 64,
       "type": "SHOW",
       "year": 2019,
       "poster": "10/10486012ba39a62911"
@@ -665,7 +735,7 @@
       "title": "Stargirl",
       "universeName": "Max / DC Universe Originals",
       "earthId": "DC-MAX",
-      "releaseOrder": 72,
+      "releaseOrder": 65,
       "type": "SHOW",
       "year": 2020,
       "poster": "93/9303242964ddfc266"
@@ -675,7 +745,7 @@
       "title": "Pennyworth",
       "universeName": "Max / DC Universe Originals",
       "earthId": "DC-MAX",
-      "releaseOrder": 73,
+      "releaseOrder": 66,
       "type": "SHOW",
       "year": 2019,
       "poster": "12/129542019836686541"
@@ -685,7 +755,7 @@
       "title": "Joker",
       "universeName": "Joker (Phillipsverse)",
       "earthId": "PHILLIPSVERSE",
-      "releaseOrder": 35,
+      "releaseOrder": 67,
       "type": "MOVIE",
       "year": 2019,
       "poster": "85/85240841ccddacdfb"
@@ -695,7 +765,7 @@
       "title": "Joker: Folie à Deux",
       "universeName": "Joker (Phillipsverse)",
       "earthId": "PHILLIPSVERSE",
-      "releaseOrder": 36,
+      "releaseOrder": 68,
       "type": "MOVIE",
       "year": 2024,
       "poster": "16/162734836c70ccf0d9"
@@ -705,7 +775,7 @@
       "title": "Superman: Man of Tomorrow",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 8,
+      "releaseOrder": 69,
       "type": "MOVIE",
       "year": 2020,
       "poster": "12/125623930c14724131"
@@ -715,7 +785,7 @@
       "title": "Justice Society: World War II",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 9,
+      "releaseOrder": 70,
       "type": "MOVIE",
       "year": 2021,
       "poster": "11/1130557801dc2bd815"
@@ -725,7 +795,7 @@
       "title": "Batman: The Long Halloween - Part 1",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 10,
+      "releaseOrder": 71,
       "type": "MOVIE",
       "year": 2021,
       "poster": "11/115150408137edccdc"
@@ -735,7 +805,7 @@
       "title": "Batman: The Long Halloween - Part 2",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 11,
+      "releaseOrder": 72,
       "type": "MOVIE",
       "year": 2021,
       "poster": "11/11514918af6ca7b62d"
@@ -745,7 +815,7 @@
       "title": "Green Lantern: Beware My Power",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 12,
+      "releaseOrder": 73,
       "type": "MOVIE",
       "year": 2022,
       "poster": "12/127804418677fcd208"
@@ -755,7 +825,7 @@
       "title": "Legion of Super-Heroes",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 13,
+      "releaseOrder": 74,
       "type": "MOVIE",
       "year": 2023,
       "poster": "13/13231207c2246935dc"
@@ -765,7 +835,7 @@
       "title": "Justice League: Warworld",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 14,
+      "releaseOrder": 75,
       "type": "MOVIE",
       "year": 2023,
       "poster": "14/14209105f44ce7c618"
@@ -775,7 +845,7 @@
       "title": "Justice League: Crisis on Infinite Earths - Part One",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 15,
+      "releaseOrder": 76,
       "type": "MOVIE",
       "year": 2024,
       "poster": "14/149071735186e2dcba"
@@ -785,7 +855,7 @@
       "title": "Justice League: Crisis on Infinite Earths - Part Two",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 16,
+      "releaseOrder": 77,
       "type": "MOVIE",
       "year": 2024,
       "poster": "15/15353689ba380ae0d5"
@@ -795,7 +865,7 @@
       "title": "Justice League: Crisis on Infinite Earths - Part Three",
       "universeName": "Tomorrowverse",
       "earthId": "TOMORROWVERSE",
-      "releaseOrder": 17,
+      "releaseOrder": 78,
       "type": "MOVIE",
       "year": 2024,
       "poster": "15/15746181565415e88b"
@@ -805,7 +875,7 @@
       "title": "The Batman",
       "universeName": "The Batman (Reevesverse)",
       "earthId": "REEVESVERSE",
-      "releaseOrder": 32,
+      "releaseOrder": 79,
       "type": "MOVIE",
       "year": 2022,
       "poster": "12/12217805ebd2008beb"
@@ -815,7 +885,7 @@
       "title": "The Penguin",
       "universeName": "The Batman (Reevesverse)",
       "earthId": "REEVESVERSE",
-      "releaseOrder": 33,
+      "releaseOrder": 80,
       "type": "SHOW",
       "year": 2024,
       "poster": "15/15966067436c600254"
@@ -825,7 +895,7 @@
       "title": "The Batman Part II",
       "universeName": "The Batman (Reevesverse)",
       "earthId": "REEVESVERSE",
-      "releaseOrder": 34,
+      "releaseOrder": 81,
       "type": "MOVIE",
       "year": 2026,
       "poster": "20/201752452f87c75503"
@@ -835,7 +905,7 @@
       "title": "Batman: Knightfall - Part 1: Knightfall",
       "universeName": "Knightfall",
       "earthId": "KNIGHTFALL",
-      "releaseOrder": 37,
+      "releaseOrder": 82,
       "type": "MOVIE",
       "year": 2026,
       "poster": "20/20370135b23b8ca567"
@@ -845,7 +915,7 @@
       "title": "Batman: Knightfall - Part 2: Knightquest",
       "universeName": "Knightfall",
       "earthId": "KNIGHTFALL",
-      "releaseOrder": 38,
+      "releaseOrder": 83,
       "type": "MOVIE",
       "year": 2026,
       "poster": "20/20728227ee4177c6b3"
@@ -855,7 +925,7 @@
       "title": "Batman: Knightfall - Part 3: KnightsEnd",
       "universeName": "Knightfall",
       "earthId": "KNIGHTFALL",
-      "releaseOrder": 39,
+      "releaseOrder": 84,
       "type": "MOVIE",
       "year": 2027,
       "poster": "18/187993674bf55afe4d"
