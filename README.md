@@ -8,7 +8,7 @@ Curated catalog data for the **Cronopic** app — a Simkl client for movies, TV 
 
 - `dcu-catalog.json` — the DCU ("El Orden de DC") catalog: **7 chapter/timeline rows** (Chapter 1: Gods and Monsters, in chronological order) and **58 multiverse rows** (8 Elseworlds universes: DCEU/Snyderverse, The Batman, Joker, Arrowverse, DCAU, DCAMU, Max originals, contemporary animation). Every row carries its real Simkl ID, poster path and release year.
 
-- `starwars-catalog.json` — the Star Wars ("El Orden de Star Wars") catalog: **40 canon rows** (6 eras, from The High Republic to the Rise of the First Order, in chronological order) and **14 expansion rows** (4 universes: Visions, Legends, LEGO Star Wars and Game Shows). Every row carries its real Simkl ID, poster path and release year.
+- `starwars-catalog.json` — the Star Wars ("El Orden de Star Wars") catalog: **47 canon rows** (6 eras, from The High Republic to the Rise of the First Order, in chronological order) and **13 expansion rows** (4 universes: Visions, Legends, LEGO Star Wars and Game Shows). Every row carries its real Simkl ID, poster path and release year.
 
 ## Schema (v1)
 
