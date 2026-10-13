@@ -141,6 +141,106 @@
       "poster": "13/1376684781c9e19586"
     },
     {
+      "simklId": "5756",
+      "title": "Batman: The Animated Series",
+      "universeName": "DCAU (Timmverse)",
+      "earthId": "DCAU",
+      "releaseOrder": 47,
+      "type": "SHOW",
+      "year": 1992,
+      "poster": "18/187418d274b04c4"
+    },
+    {
+      "simklId": "1339",
+      "title": "Superman: The Animated Series",
+      "universeName": "DCAU (Timmverse)",
+      "earthId": "DCAU",
+      "releaseOrder": 48,
+      "type": "SHOW",
+      "year": 1996,
+      "poster": "26/26329dc1fa065a6"
+    },
+    {
+      "simklId": "6763",
+      "title": "The New Batman Adventures",
+      "universeName": "DCAU (Timmverse)",
+      "earthId": "DCAU",
+      "releaseOrder": 49,
+      "type": "SHOW",
+      "year": 1997,
+      "poster": "17/17213225584e5d7e1"
+    },
+    {
+      "simklId": "4965",
+      "title": "Batman Beyond",
+      "universeName": "DCAU (Timmverse)",
+      "earthId": "DCAU",
+      "releaseOrder": 50,
+      "type": "SHOW",
+      "year": 1999,
+      "poster": "33/33489b9b62fa2c2"
+    },
+    {
+      "simklId": "8841",
+      "title": "Static Shock",
+      "universeName": "DCAU (Timmverse)",
+      "earthId": "DCAU",
+      "releaseOrder": 51,
+      "type": "SHOW",
+      "year": 2000,
+      "poster": "41/41668164b9bde38"
+    },
+    {
+      "simklId": "5940",
+      "title": "Justice League",
+      "universeName": "DCAU (Timmverse)",
+      "earthId": "DCAU",
+      "releaseOrder": 52,
+      "type": "SHOW",
+      "year": 2001,
+      "poster": "35/356532c0ef846a8"
+    },
+    {
+      "simklId": "21978",
+      "title": "Young Justice",
+      "universeName": "Contemporary Animation",
+      "earthId": "DC-ANIMATED",
+      "releaseOrder": 74,
+      "type": "SHOW",
+      "year": 2010,
+      "poster": "73/73559d0237ba9c7"
+    },
+    {
+      "simklId": "1112324",
+      "title": "Harley Quinn",
+      "universeName": "Contemporary Animation",
+      "earthId": "DC-ANIMATED",
+      "releaseOrder": 75,
+      "type": "SHOW",
+      "year": 2019,
+      "poster": "11/116947586c319f17d9"
+    },
+    {
+      "simklId": "1898129",
+      "title": "Kite Man: Hell Yeah!",
+      "universeName": "Contemporary Animation",
+      "earthId": "DC-ANIMATED",
+      "releaseOrder": 76,
+      "type": "SHOW",
+      "year": 2024,
+      "poster": "16/161079694c479ee17a"
+    },
+    {
+      "simklId": "1648284",
+      "title": "My Adventures with Superman",
+      "universeName": "Contemporary Animation",
+      "earthId": "DC-ANIMATED",
+      "releaseOrder": 77,
+      "type": "SHOW",
+      "year": 2023,
+      "poster": "14/14150607163a9740f2"
+    },
+    {
       "simklId": "217514",
       "title": "Batman: The Dark Knight Returns - Part 1",
       "universeName": "The Dark Knight Returns",
@@ -161,104 +261,74 @@
       "poster": "19/1998800768623eede5"
     },
     {
-      "simklId": "1138204",
-      "title": "Superman: Man of Tomorrow",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 8,
-      "type": "MOVIE",
-      "year": 2020,
-      "poster": "12/125623930c14724131"
+      "simklId": "2113",
+      "title": "Arrow",
+      "universeName": "Arrowverse",
+      "earthId": "EARTH-PRIME",
+      "releaseOrder": 40,
+      "type": "SHOW",
+      "year": 2012,
+      "poster": "19/1996192141ae1aeef"
     },
     {
-      "simklId": "1417016",
-      "title": "Justice Society: World War II",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 9,
-      "type": "MOVIE",
+      "simklId": "49108",
+      "title": "The Flash",
+      "universeName": "Arrowverse",
+      "earthId": "EARTH-PRIME",
+      "releaseOrder": 41,
+      "type": "SHOW",
+      "year": 2014,
+      "poster": "10/109758664203de913b"
+    },
+    {
+      "simklId": "501626",
+      "title": "Supergirl",
+      "universeName": "Arrowverse",
+      "earthId": "EARTH-PRIME",
+      "releaseOrder": 42,
+      "type": "SHOW",
+      "year": 2015,
+      "poster": "11/11100800f5872239ce"
+    },
+    {
+      "simklId": "547012",
+      "title": "DC's Legends of Tomorrow",
+      "universeName": "Arrowverse",
+      "earthId": "EARTH-PRIME",
+      "releaseOrder": 43,
+      "type": "SHOW",
+      "year": 2016,
+      "poster": "31/313805296ccfaf2bc"
+    },
+    {
+      "simklId": "687245",
+      "title": "Black Lightning",
+      "universeName": "Arrowverse",
+      "earthId": "EARTH-PRIME",
+      "releaseOrder": 44,
+      "type": "SHOW",
+      "year": 2018,
+      "poster": "64/6464689816da743b1"
+    },
+    {
+      "simklId": "1061880",
+      "title": "Batwoman",
+      "universeName": "Arrowverse",
+      "earthId": "EARTH-PRIME",
+      "releaseOrder": 45,
+      "type": "SHOW",
+      "year": 2019,
+      "poster": "84/8429368ee5671894a"
+    },
+    {
+      "simklId": "1242644",
+      "title": "Superman & Lois",
+      "universeName": "Arrowverse",
+      "earthId": "EARTH-PRIME",
+      "releaseOrder": 46,
+      "type": "SHOW",
       "year": 2021,
-      "poster": "11/1130557801dc2bd815"
-    },
-    {
-      "simklId": "1417010",
-      "title": "Batman: The Long Halloween - Part 1",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 10,
-      "type": "MOVIE",
-      "year": 2021,
-      "poster": "11/115150408137edccdc"
-    },
-    {
-      "simklId": "1417008",
-      "title": "Batman: The Long Halloween - Part 2",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 11,
-      "type": "MOVIE",
-      "year": 2021,
-      "poster": "11/11514918af6ca7b62d"
-    },
-    {
-      "simklId": "1757710",
-      "title": "Green Lantern: Beware My Power",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 12,
-      "type": "MOVIE",
-      "year": 2022,
-      "poster": "12/127804418677fcd208"
-    },
-    {
-      "simklId": "1959295",
-      "title": "Legion of Super-Heroes",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 13,
-      "type": "MOVIE",
-      "year": 2023,
-      "poster": "13/13231207c2246935dc"
-    },
-    {
-      "simklId": "1959177",
-      "title": "Justice League: Warworld",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 14,
-      "type": "MOVIE",
-      "year": 2023,
-      "poster": "14/14209105f44ce7c618"
-    },
-    {
-      "simklId": "2215483",
-      "title": "Justice League: Crisis on Infinite Earths - Part One",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 15,
-      "type": "MOVIE",
-      "year": 2024,
-      "poster": "14/149071735186e2dcba"
-    },
-    {
-      "simklId": "2306637",
-      "title": "Justice League: Crisis on Infinite Earths - Part Two",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 16,
-      "type": "MOVIE",
-      "year": 2024,
-      "poster": "15/15353689ba380ae0d5"
-    },
-    {
-      "simklId": "2306641",
-      "title": "Justice League: Crisis on Infinite Earths - Part Three",
-      "universeName": "Tomorrowverse",
-      "earthId": "TOMORROWVERSE",
-      "releaseOrder": 17,
-      "type": "MOVIE",
-      "year": 2024,
-      "poster": "15/15746181565415e88b"
+      "poster": "10/108831044427fe62d2"
     },
     {
       "simklId": "119510",
@@ -399,216 +469,6 @@
       "type": "MOVIE",
       "year": 2023,
       "poster": "14/149888654db09bde45"
-    },
-    {
-      "simklId": "615446",
-      "title": "The Batman",
-      "universeName": "The Batman (Reevesverse)",
-      "earthId": "REEVESVERSE",
-      "releaseOrder": 32,
-      "type": "MOVIE",
-      "year": 2022,
-      "poster": "12/12217805ebd2008beb"
-    },
-    {
-      "simklId": "1865497",
-      "title": "The Penguin",
-      "universeName": "The Batman (Reevesverse)",
-      "earthId": "REEVESVERSE",
-      "releaseOrder": 33,
-      "type": "SHOW",
-      "year": 2024,
-      "poster": "15/15966067436c600254"
-    },
-    {
-      "simklId": "1567698",
-      "title": "The Batman Part II",
-      "universeName": "The Batman (Reevesverse)",
-      "earthId": "REEVESVERSE",
-      "releaseOrder": 34,
-      "type": "MOVIE",
-      "year": 2026,
-      "poster": "20/201752452f87c75503"
-    },
-    {
-      "simklId": "768908",
-      "title": "Joker",
-      "universeName": "Joker (Phillipsverse)",
-      "earthId": "PHILLIPSVERSE",
-      "releaseOrder": 35,
-      "type": "MOVIE",
-      "year": 2019,
-      "poster": "85/85240841ccddacdfb"
-    },
-    {
-      "simklId": "1763202",
-      "title": "Joker: Folie à Deux",
-      "universeName": "Joker (Phillipsverse)",
-      "earthId": "PHILLIPSVERSE",
-      "releaseOrder": 36,
-      "type": "MOVIE",
-      "year": 2024,
-      "poster": "16/162734836c70ccf0d9"
-    },
-    {
-      "simklId": "2899427",
-      "title": "Batman: Knightfall - Part 1: Knightfall",
-      "universeName": "Knightfall",
-      "earthId": "KNIGHTFALL",
-      "releaseOrder": 37,
-      "type": "MOVIE",
-      "year": 2026,
-      "poster": "20/20370135b23b8ca567"
-    },
-    {
-      "simklId": "2640073",
-      "title": "Batman: Knightfall - Part 2: Knightquest",
-      "universeName": "Knightfall",
-      "earthId": "KNIGHTFALL",
-      "releaseOrder": 38,
-      "type": "MOVIE",
-      "year": 2026,
-      "poster": "20/20728227ee4177c6b3"
-    },
-    {
-      "simklId": "2640071",
-      "title": "Batman: Knightfall - Part 3: KnightsEnd",
-      "universeName": "Knightfall",
-      "earthId": "KNIGHTFALL",
-      "releaseOrder": 39,
-      "type": "MOVIE",
-      "year": 2027,
-      "poster": "18/187993674bf55afe4d"
-    },
-    {
-      "simklId": "2113",
-      "title": "Arrow",
-      "universeName": "Arrowverse",
-      "earthId": "EARTH-PRIME",
-      "releaseOrder": 40,
-      "type": "SHOW",
-      "year": 2012,
-      "poster": "19/1996192141ae1aeef"
-    },
-    {
-      "simklId": "49108",
-      "title": "The Flash",
-      "universeName": "Arrowverse",
-      "earthId": "EARTH-PRIME",
-      "releaseOrder": 41,
-      "type": "SHOW",
-      "year": 2014,
-      "poster": "10/109758664203de913b"
-    },
-    {
-      "simklId": "501626",
-      "title": "Supergirl",
-      "universeName": "Arrowverse",
-      "earthId": "EARTH-PRIME",
-      "releaseOrder": 42,
-      "type": "SHOW",
-      "year": 2015,
-      "poster": "11/11100800f5872239ce"
-    },
-    {
-      "simklId": "547012",
-      "title": "DC's Legends of Tomorrow",
-      "universeName": "Arrowverse",
-      "earthId": "EARTH-PRIME",
-      "releaseOrder": 43,
-      "type": "SHOW",
-      "year": 2016,
-      "poster": "31/313805296ccfaf2bc"
-    },
-    {
-      "simklId": "687245",
-      "title": "Black Lightning",
-      "universeName": "Arrowverse",
-      "earthId": "EARTH-PRIME",
-      "releaseOrder": 44,
-      "type": "SHOW",
-      "year": 2018,
-      "poster": "64/6464689816da743b1"
-    },
-    {
-      "simklId": "1061880",
-      "title": "Batwoman",
-      "universeName": "Arrowverse",
-      "earthId": "EARTH-PRIME",
-      "releaseOrder": 45,
-      "type": "SHOW",
-      "year": 2019,
-      "poster": "84/8429368ee5671894a"
-    },
-    {
-      "simklId": "1242644",
-      "title": "Superman & Lois",
-      "universeName": "Arrowverse",
-      "earthId": "EARTH-PRIME",
-      "releaseOrder": 46,
-      "type": "SHOW",
-      "year": 2021,
-      "poster": "10/108831044427fe62d2"
-    },
-    {
-      "simklId": "5756",
-      "title": "Batman: The Animated Series",
-      "universeName": "DCAU (Timmverse)",
-      "earthId": "DCAU",
-      "releaseOrder": 47,
-      "type": "SHOW",
-      "year": 1992,
-      "poster": "18/187418d274b04c4"
-    },
-    {
-      "simklId": "1339",
-      "title": "Superman: The Animated Series",
-      "universeName": "DCAU (Timmverse)",
-      "earthId": "DCAU",
-      "releaseOrder": 48,
-      "type": "SHOW",
-      "year": 1996,
-      "poster": "26/26329dc1fa065a6"
-    },
-    {
-      "simklId": "6763",
-      "title": "The New Batman Adventures",
-      "universeName": "DCAU (Timmverse)",
-      "earthId": "DCAU",
-      "releaseOrder": 49,
-      "type": "SHOW",
-      "year": 1997,
-      "poster": "17/17213225584e5d7e1"
-    },
-    {
-      "simklId": "4965",
-      "title": "Batman Beyond",
-      "universeName": "DCAU (Timmverse)",
-      "earthId": "DCAU",
-      "releaseOrder": 50,
-      "type": "SHOW",
-      "year": 1999,
-      "poster": "33/33489b9b62fa2c2"
-    },
-    {
-      "simklId": "8841",
-      "title": "Static Shock",
-      "universeName": "DCAU (Timmverse)",
-      "earthId": "DCAU",
-      "releaseOrder": 51,
-      "type": "SHOW",
-      "year": 2000,
-      "poster": "41/41668164b9bde38"
-    },
-    {
-      "simklId": "5940",
-      "title": "Justice League",
-      "universeName": "DCAU (Timmverse)",
-      "earthId": "DCAU",
-      "releaseOrder": 52,
-      "type": "SHOW",
-      "year": 2001,
-      "poster": "35/356532c0ef846a8"
     },
     {
       "simklId": "275782",
@@ -821,44 +681,184 @@
       "poster": "12/129542019836686541"
     },
     {
-      "simklId": "21978",
-      "title": "Young Justice",
-      "universeName": "Contemporary Animation",
-      "earthId": "DC-ANIMATED",
-      "releaseOrder": 74,
-      "type": "SHOW",
-      "year": 2010,
-      "poster": "73/73559d0237ba9c7"
-    },
-    {
-      "simklId": "1112324",
-      "title": "Harley Quinn",
-      "universeName": "Contemporary Animation",
-      "earthId": "DC-ANIMATED",
-      "releaseOrder": 75,
-      "type": "SHOW",
+      "simklId": "768908",
+      "title": "Joker",
+      "universeName": "Joker (Phillipsverse)",
+      "earthId": "PHILLIPSVERSE",
+      "releaseOrder": 35,
+      "type": "MOVIE",
       "year": 2019,
-      "poster": "11/116947586c319f17d9"
+      "poster": "85/85240841ccddacdfb"
     },
     {
-      "simklId": "1898129",
-      "title": "Kite Man: Hell Yeah!",
-      "universeName": "Contemporary Animation",
-      "earthId": "DC-ANIMATED",
-      "releaseOrder": 76,
+      "simklId": "1763202",
+      "title": "Joker: Folie à Deux",
+      "universeName": "Joker (Phillipsverse)",
+      "earthId": "PHILLIPSVERSE",
+      "releaseOrder": 36,
+      "type": "MOVIE",
+      "year": 2024,
+      "poster": "16/162734836c70ccf0d9"
+    },
+    {
+      "simklId": "1138204",
+      "title": "Superman: Man of Tomorrow",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 8,
+      "type": "MOVIE",
+      "year": 2020,
+      "poster": "12/125623930c14724131"
+    },
+    {
+      "simklId": "1417016",
+      "title": "Justice Society: World War II",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 9,
+      "type": "MOVIE",
+      "year": 2021,
+      "poster": "11/1130557801dc2bd815"
+    },
+    {
+      "simklId": "1417010",
+      "title": "Batman: The Long Halloween - Part 1",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 10,
+      "type": "MOVIE",
+      "year": 2021,
+      "poster": "11/115150408137edccdc"
+    },
+    {
+      "simklId": "1417008",
+      "title": "Batman: The Long Halloween - Part 2",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 11,
+      "type": "MOVIE",
+      "year": 2021,
+      "poster": "11/11514918af6ca7b62d"
+    },
+    {
+      "simklId": "1757710",
+      "title": "Green Lantern: Beware My Power",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 12,
+      "type": "MOVIE",
+      "year": 2022,
+      "poster": "12/127804418677fcd208"
+    },
+    {
+      "simklId": "1959295",
+      "title": "Legion of Super-Heroes",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 13,
+      "type": "MOVIE",
+      "year": 2023,
+      "poster": "13/13231207c2246935dc"
+    },
+    {
+      "simklId": "1959177",
+      "title": "Justice League: Warworld",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 14,
+      "type": "MOVIE",
+      "year": 2023,
+      "poster": "14/14209105f44ce7c618"
+    },
+    {
+      "simklId": "2215483",
+      "title": "Justice League: Crisis on Infinite Earths - Part One",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 15,
+      "type": "MOVIE",
+      "year": 2024,
+      "poster": "14/149071735186e2dcba"
+    },
+    {
+      "simklId": "2306637",
+      "title": "Justice League: Crisis on Infinite Earths - Part Two",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 16,
+      "type": "MOVIE",
+      "year": 2024,
+      "poster": "15/15353689ba380ae0d5"
+    },
+    {
+      "simklId": "2306641",
+      "title": "Justice League: Crisis on Infinite Earths - Part Three",
+      "universeName": "Tomorrowverse",
+      "earthId": "TOMORROWVERSE",
+      "releaseOrder": 17,
+      "type": "MOVIE",
+      "year": 2024,
+      "poster": "15/15746181565415e88b"
+    },
+    {
+      "simklId": "615446",
+      "title": "The Batman",
+      "universeName": "The Batman (Reevesverse)",
+      "earthId": "REEVESVERSE",
+      "releaseOrder": 32,
+      "type": "MOVIE",
+      "year": 2022,
+      "poster": "12/12217805ebd2008beb"
+    },
+    {
+      "simklId": "1865497",
+      "title": "The Penguin",
+      "universeName": "The Batman (Reevesverse)",
+      "earthId": "REEVESVERSE",
+      "releaseOrder": 33,
       "type": "SHOW",
       "year": 2024,
-      "poster": "16/161079694c479ee17a"
+      "poster": "15/15966067436c600254"
     },
     {
-      "simklId": "1648284",
-      "title": "My Adventures with Superman",
-      "universeName": "Contemporary Animation",
-      "earthId": "DC-ANIMATED",
-      "releaseOrder": 77,
-      "type": "SHOW",
-      "year": 2023,
-      "poster": "14/14150607163a9740f2"
+      "simklId": "1567698",
+      "title": "The Batman Part II",
+      "universeName": "The Batman (Reevesverse)",
+      "earthId": "REEVESVERSE",
+      "releaseOrder": 34,
+      "type": "MOVIE",
+      "year": 2026,
+      "poster": "20/201752452f87c75503"
+    },
+    {
+      "simklId": "2899427",
+      "title": "Batman: Knightfall - Part 1: Knightfall",
+      "universeName": "Knightfall",
+      "earthId": "KNIGHTFALL",
+      "releaseOrder": 37,
+      "type": "MOVIE",
+      "year": 2026,
+      "poster": "20/20370135b23b8ca567"
+    },
+    {
+      "simklId": "2640073",
+      "title": "Batman: Knightfall - Part 2: Knightquest",
+      "universeName": "Knightfall",
+      "earthId": "KNIGHTFALL",
+      "releaseOrder": 38,
+      "type": "MOVIE",
+      "year": 2026,
+      "poster": "20/20728227ee4177c6b3"
+    },
+    {
+      "simklId": "2640071",
+      "title": "Batman: Knightfall - Part 3: KnightsEnd",
+      "universeName": "Knightfall",
+      "earthId": "KNIGHTFALL",
+      "releaseOrder": 39,
+      "type": "MOVIE",
+      "year": 2027,
+      "poster": "18/187993674bf55afe4d"
     }
   ]
 }
