@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T20:39:17.488Z",
+  "updatedAt": "2026-10-13T22:20:00.000Z",
   "phases": [
     {
       "id": "HIGH_REPUBLIC",
@@ -142,7 +142,7 @@
       "type": "SHOW",
       "year": 2008,
       "poster": "30/3005816a6d45783db",
-      "inPhaseRegistry": false,
+      "inPhaseRegistry": true,
       "earthId": "GALAXY"
     },
     {
