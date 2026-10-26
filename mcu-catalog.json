@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T02:13:22Z",
+  "updatedAt": "2026-10-26T16:09:27Z",
   "phases": [
     {
       "id": "PHASE_ONE",
@@ -1753,11 +1753,21 @@
       "poster": "14/1402599566a5397d0b"
     },
     {
+      "simklId": "1799783",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "universeName": "Spider-Verse",
+      "earthId": "EARTH-1610B",
+      "releaseOrder": 31,
+      "type": "MOVIE",
+      "year": 2027,
+      "poster": "19/19836259fdac5ea2ca"
+    },
+    {
       "simklId": "67872",
       "title": "Punisher: War Zone",
       "universeName": "War Zone Universe",
       "earthId": "EARTH-TRN011",
-      "releaseOrder": 31,
+      "releaseOrder": 32,
       "type": "MOVIE",
       "year": 2008,
       "poster": "10/10482226432c7a333b"
@@ -1767,7 +1777,7 @@
       "title": "The Amazing Spider-Man",
       "universeName": "Webb Spider-Man Universe",
       "earthId": "EARTH-120703",
-      "releaseOrder": 32,
+      "releaseOrder": 33,
       "type": "MOVIE",
       "year": 2012,
       "poster": "80/8090114009e337d31"
@@ -1777,7 +1787,7 @@
       "title": "The Amazing Spider-Man 2",
       "universeName": "Webb Spider-Man Universe",
       "earthId": "EARTH-120703",
-      "releaseOrder": 33,
+      "releaseOrder": 34,
       "type": "MOVIE",
       "year": 2014,
       "poster": "10/10309878f6b193252b"
@@ -1787,7 +1797,7 @@
       "title": "X-Men",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 34,
+      "releaseOrder": 35,
       "type": "MOVIE",
       "year": 2000,
       "poster": "97/976538801cad6be0c"
@@ -1797,7 +1807,7 @@
       "title": "X2: X-Men United",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 35,
+      "releaseOrder": 36,
       "type": "MOVIE",
       "year": 2003,
       "poster": "11/1105263071b4d5bb60"
@@ -1807,7 +1817,7 @@
       "title": "X-Men: The Last Stand",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 36,
+      "releaseOrder": 37,
       "type": "MOVIE",
       "year": 2006,
       "poster": "72/7286054da1439f172"
@@ -1817,7 +1827,7 @@
       "title": "X-Men Origins: Wolverine",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 37,
+      "releaseOrder": 38,
       "type": "MOVIE",
       "year": 2009,
       "poster": "64/6423328efdf7ea0bf"
@@ -1827,7 +1837,7 @@
       "title": "X-Men: First Class",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 38,
+      "releaseOrder": 39,
       "type": "MOVIE",
       "year": 2011,
       "poster": "13/1374518306a4f1e23a"
@@ -1837,7 +1847,7 @@
       "title": "The Wolverine",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 39,
+      "releaseOrder": 40,
       "type": "MOVIE",
       "year": 2013,
       "poster": "96/96434349bab72cccd"
@@ -1847,7 +1857,7 @@
       "title": "X-Men: Days of Future Past",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 40,
+      "releaseOrder": 41,
       "type": "MOVIE",
       "year": 2014,
       "poster": "12/12978759bf1127e7b1"
@@ -1857,7 +1867,7 @@
       "title": "Deadpool",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 41,
+      "releaseOrder": 42,
       "type": "MOVIE",
       "year": 2016,
       "poster": "11/11268726a90002f982"
@@ -1867,7 +1877,7 @@
       "title": "X-Men: Apocalypse",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 42,
+      "releaseOrder": 43,
       "type": "MOVIE",
       "year": 2016,
       "poster": "14/14010343c022525cac"
@@ -1877,7 +1887,7 @@
       "title": "Logan",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 43,
+      "releaseOrder": 44,
       "type": "MOVIE",
       "year": 2017,
       "poster": "72/7218016fdb3cbdd03"
@@ -1887,7 +1897,7 @@
       "title": "Deadpool 2",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 44,
+      "releaseOrder": 45,
       "type": "MOVIE",
       "year": 2018,
       "poster": "67/67914227e2cab8dc3"
@@ -1897,7 +1907,7 @@
       "title": "Dark Phoenix",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 45,
+      "releaseOrder": 46,
       "type": "MOVIE",
       "year": 2019,
       "poster": "81/8140138de457b2100"
@@ -1907,7 +1917,7 @@
       "title": "The New Mutants",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 46,
+      "releaseOrder": 47,
       "type": "MOVIE",
       "year": 2020,
       "poster": "10/1068923477b74e1c96"
@@ -1917,7 +1927,7 @@
       "title": "Deadpool & Wolverine",
       "universeName": "X-Men Universe",
       "earthId": "EARTH-10005",
-      "releaseOrder": 47,
+      "releaseOrder": 48,
       "type": "MOVIE",
       "year": 2024,
       "poster": "16/1604316933bde95b96"
